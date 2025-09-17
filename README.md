@@ -1,1 +1,1 @@
-# gemini-ai-api-projectx
+# gemini-ai-api-project
